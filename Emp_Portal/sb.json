@@ -1,0 +1,12 @@
+{
+    "signupUserList":[
+        {
+            "email": "admin",
+            "password": "ffff1234"
+        },
+        {
+            "email": "user1",
+            "password": "4321"
+        }
+    ]
+}
